@@ -34,7 +34,7 @@ import kotlinx.android.parcel.Parcelize
  * PARCELABLE ANDROID (android.os) => Parcel data container for IPC (Inter-process Communication - communicate between two application process's)
  * SERIALIZABLE JAVA (javax.seria..?) => Java Reflection
  *
- *
+ * GSON vs Moshi - GSON - name of property must match name of attribute, Moshi - @JsonField("contacts")
  *
  */
 
